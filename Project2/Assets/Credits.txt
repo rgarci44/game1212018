@@ -1,0 +1,32 @@
+Character Animations
+--------------------------------------------------------------------
+Idle, Walk, and Death animations by mixamo.com
+
+Background Music
+--------------------------------------------------------------------
+Water Lily Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Sound Effects
+-------------------------------------------------------------------
+Regular_Gun Sound Effect by Bird_man
+https://freesound.org/people/Bird_man/sounds/275151/
+
+Machine_Gun Sound Effect by pgi
+https://freesound.org/people/pgi/sounds/212602/
+
+Player_Hit Sound Effect by whisperbandnumber1
+https://freesound.org/people/whisperbandnumber1/sounds/397276/
+
+Player_Death Sound Effect by passAirmangrace
+https://freesound.org/people/passAirmangrace/sounds/340916/
+
+Enemy_Death Sound by AlineAudio
+https://freesound.org/people/AlineAudio/sounds/416838/
+
+Pickup Sound Effect by LittleRobotSoundFactory
+https://freesound.org/people/LittleRobotSoundFactory/sounds/270405/
+
+Weapon_Switch Sound Effect by knova
+https://freesound.org/people/knova/sounds/170273/
